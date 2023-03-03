@@ -627,11 +627,8 @@ header .downlad-btn:hover {
   justify-content: center;
 }
 
-/* .verify-img {
+.verify-img {
   margin-top: 11px;
-} */
+}
 
-.verify-img{
-	margin-top: -3px;
-margin-left: -24px;
- }
+ 
